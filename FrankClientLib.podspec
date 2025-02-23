@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FrankClientLib'
-s.version = '0.2.5'
+s.version = '0.2.6'
   s.summary          = 'Test'
   s.description      = 'A test cocoapod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
